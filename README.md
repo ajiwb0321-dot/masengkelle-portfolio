@@ -40,7 +40,7 @@ export default function App() {
           <div className={classes.card}>
             <p className="text-gray-300">
               Saya memiliki pengalaman sebagai sales di PT Home Credit Indonesia 
-              (Maret–Nov 2024) dengan pencapaian pembiayaan hingga 75jt. Saat ini 
+              (Maret–Nov 2024). Saat ini 
               saya fokus belajar Web Development.
             </p>
           </div>
@@ -53,7 +53,7 @@ export default function App() {
             <p>📞 Telepon: 0852-4209-9970</p>
             <p>📧 Email: mass12mass11@gmail.com</p>
             <p>🌐 Website: https://masengkelle.com</p>
-            <p>🔗 LinkedIn: linkedin.com/in/aji januakto wibowo</p>
+    
 
             <a href="https://wa.me/6285242099970" target="_blank" className={classes.btn}>
               WhatsApp
